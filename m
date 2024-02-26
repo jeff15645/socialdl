@@ -3,6 +3,7 @@
   "server-version": "100",
   "update-URL": "",
   "s-url": "https://api.social-downloader.com/video?url=",
+  "disclaimer" : "https://raw.githubusercontent.com/jeff15645/socialdl/main/sdd",
 "stt": {
     "t1": "",
     "t2": "",
