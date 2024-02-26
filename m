@@ -9,10 +9,11 @@
     "t3": "",
     "t4": "",
     "t5": "",
-    "t6": "1CDxWBKjB4ocfJjYgmkfb46f0c38-ad35-41e6-90d6-432c31c4bdd338x5P3qQ82pz50ctD882",
-    "t7": "fY7TM9Q8kbFLPy723q24U1JSHn55BpAUwbW/aeEA4wsUebPP9bCdJyEacFviD14=7ghA88d9t8m96YRifW1E",
+    "t6": "eRBomiAbGXAkwphRTPmw8d59ac43-efee-47c4-91ae-33b29668caa0MgwjssIPYxnoqfwvTTZn",
+    "t7": "gSXdzQvkToCoVMJSGbcWj89SjwrqjK277N4ii/QWAfJ1IXSpEP8hm0Svj5Kuhqs=JrWmhdiYHFlIUsMCMNJm",
     "t8": "",
-    "t9": ""
+    "t9": "",
+    "t10": "MkbNlBOaYFppuvYvRJJf3DDD40D2F68DBDE5batMnhnZGUnPCQgSXpUW"
 },
 "spc": {
     "s1": {
@@ -50,10 +51,14 @@
   "s9": {
       "h": "95.216.144.147",
       "p": 9120
+    },
+  "s10": {
+      "h": "",
+      "p": 80
     }
 },
 "smt":  {
-    "st1f": 50,
+    "st1f": 1440,
     "st2f": 1440,
     "st3f": 1440,
     "st4f": 1440,
@@ -61,6 +66,7 @@
     "st6f": 1440,
     "st7f": 1440,
     "st8f": 1440,
-    "st9f": 1440
-}
+    "st9f": 1440,
+    "st10f": 1440
+},
 }
