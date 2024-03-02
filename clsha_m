@@ -14,7 +14,8 @@
     "t7": "gSXdzQvkToCoVMJSGbcWj89SjwrqjK277N4ii/QWAfJ1IXSpEP8hm0Svj5Kuhqs=JrWmhdiYHFlIUsMCMNJm",
     "t8": "",
     "t9": "",
-    "t10": "MkbNlBOaYFppuvYvRJJf3DDD40D2F68DBDE5batMnhnZGUnPCQgSXpUW"
+    "t10": "MkbNlBOaYFppuvYvRJJf3DDD40D2F68DBDE5batMnhnZGUnPCQgSXpUW",
+    "t11": "yRvcxSnFPxwsYJtWnMaTe25fa0c3-249e-4523-83c2-f684aaa84e3cWHcDECvodSgmjfMJxfKp"
 },
 "spc": {
     "s1": {
@@ -56,6 +57,10 @@
   "s10": {
       "h": "",
       "p": 80
+    },
+"s11": {
+      "h": "",
+      "p": 80
     }
 },
 "smt":  {
@@ -68,6 +73,7 @@
     "st7f": 1440,
     "st8f": 1440,
     "st9f": 1440,
-    "st10f": 1440
+    "st10f": 1440,
+    "st11f": 1440
 }
 }
